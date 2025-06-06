@@ -1,0 +1,41 @@
+[
+  {
+    "id": "dish1",
+    "name": "Classic Spaghetti Carbonara",
+    "picture": "images/placeholder_pasta.jpg",
+    "composition": ["Spaghetti", "Large Eggs", "Pancetta or Guanciale", "Pecorino Romano Cheese", "Black Pepper", "Salt"],
+    "kbzhu": {
+      "calories": 650,
+      "protein": 28,
+      "fat": 38,
+      "carbs": 50
+    },
+    "recipe": "# Classic Spaghetti Carbonara\n\n## Ingredients\n\n*   200g Spaghetti\n*   2 large Eggs (yolks, or 1 whole egg + 1 yolk)\n*   50g Pancetta or Guanciale, diced\n*   30g Pecorino Romano cheese, freshly grated (plus extra for serving)\n*   Freshly ground Black Pepper\n*   Salt (for pasta water)\n\n## Instructions\n\n1.  **Cook the Pasta:** Bring a large pot of salted water to a boil. Add spaghetti and cook according to package directions until al dente.\n2.  **Prepare Pancetta:** While pasta cooks, heat a large skillet over medium heat. Add diced pancetta and cook until crispy and golden brown (about 5-7 minutes). Remove from heat and set aside. Do not discard the rendered fat in the skillet.\n3.  **Prepare Egg Mixture:** In a bowl, whisk together the eggs (or yolks), grated Pecorino Romano cheese, and a generous amount of freshly ground black pepper.\n4.  **Combine:** Once pasta is cooked, reserve about 1/2 cup of pasta water, then drain the pasta. Immediately add the hot pasta to the skillet with the pancetta and its rendered fat. Toss quickly to coat. *Remove skillet from any direct heat source to prevent eggs from scrambling.*\n5.  **Emulsify:** Quickly pour the egg and cheese mixture over the pasta. Stir vigorously and continuously. If the sauce is too thick, add a tablespoon or two of the reserved pasta water until you achieve a creamy consistency. The heat from the pasta will cook the eggs gently.\n6.  **Serve:** Serve immediately, garnished with more grated Pecorino Romano and black pepper."
+  },
+  {
+    "id": "dish2",
+    "name": "Avocado Chicken Salad",
+    "picture": "images/placeholder_salad.jpg",
+    "composition": ["Cooked Chicken Breast", "Avocado", "Red Onion", "Celery", "Lime Juice", "Cilantro", "Greek Yogurt or Mayonnaise", "Salt", "Pepper"],
+    "kbzhu": {
+      "calories": 450,
+      "protein": 40,
+      "fat": 28,
+      "carbs": 15
+    },
+    "recipe": "# Avocado Chicken Salad\n\n## Ingredients\n\n*   2 cups cooked and shredded or diced Chicken Breast\n*   1 large ripe Avocado, diced\n*   1/4 cup finely chopped Red Onion\n*   1/4 cup finely chopped Celery\n*   2 tbsp fresh Lime Juice\n*   2 tbsp chopped fresh Cilantro\n*   1/4 cup Greek Yogurt (for a healthier version) or Mayonnaise\n*   Salt and freshly ground Black Pepper to taste\n*   Optional: Lettuce cups or whole-grain bread for serving\n\n## Instructions\n\n1.  **Prepare Ingredients:** Ensure chicken is cooked and cooled. Dice avocado, red onion, and celery.\n2.  **Combine:** In a medium bowl, gently combine the shredded chicken, diced avocado, red onion, and celery.\n3.  **Dress:** Drizzle with lime juice immediately over the avocado to prevent browning. Add chopped cilantro, Greek yogurt (or mayonnaise), salt, and pepper.\n4.  **Mix:** Gently stir all ingredients together until well combined. Be careful not to mash the avocado too much; some chunks are nice.\n5.  **Chill (Recommended):** For best flavor, cover and chill in the refrigerator for at least 15-30 minutes.\n6.  **Serve:** Serve as is, in lettuce cups, or as a sandwich filling on whole-grain bread or croissants."
+  },
+  {
+    "id": "dish3",
+    "name": "Hearty Lentil Soup",
+    "picture": "images/placeholder_soup.jpg",
+    "composition": ["Brown or Green Lentils", "Vegetable Broth", "Carrots", "Celery", "Onion", "Garlic", "Diced Tomatoes", "Spinach", "Olive Oil", "Cumin", "Coriander", "Turmeric", "Salt", "Pepper"],
+    "kbzhu": {
+      "calories": 300,
+      "protein": 18,
+      "fat": 8,
+      "carbs": 45
+    },
+    "recipe": "# Hearty Lentil Soup\n\n## Ingredients\n\n*   1 tbsp Olive Oil\n*   1 medium Onion, chopped\n*   2 Carrots, diced\n*   2 Celery stalks, diced\n*   3 cloves Garlic, minced\n*   1 tsp ground Cumin\n*   1/2 tsp ground Coriander\n*   1/4 tsp Turmeric powder\n*   1 cup Brown or Green Lentils, rinsed\n*   4 cups Vegetable Broth (or chicken broth)\n*   1 can (14.5 oz / 400g) Diced Tomatoes, undrained\n*   2 cups fresh Spinach, roughly chopped\n*   Salt and freshly ground Black Pepper to taste\n*   Optional: A squeeze of lemon juice or a dollop of yogurt for serving\n\n## Instructions\n\n1.  **Sauté Aromatics:** Heat olive oil in a large pot or Dutch oven over medium heat. Add onion, carrots, and celery. Cook, stirring occasionally, until softened (about 5-7 minutes).\n2.  **Add Spices & Garlic:** Stir in minced garlic, cumin, coriander, and turmeric. Cook for another minute until fragrant.\n3.  **Add Lentils & Liquids:** Add the rinsed lentils, vegetable broth, and diced tomatoes (with their juice). Bring to a boil.\n4.  **Simmer:** Once boiling, reduce heat to low, cover, and simmer for 25-30 minutes, or until lentils are tender. Stir occasionally.\n5.  **Add Spinach:** Stir in the fresh spinach and cook until wilted, about 2-3 minutes.\n6.  **Season:** Season with salt and pepper to taste. \n7.  **Serve:** Ladle into bowls. Garnish with a squeeze of lemon juice or a dollop of plain yogurt if desired. Serve hot with crusty bread."
+  }
+]
