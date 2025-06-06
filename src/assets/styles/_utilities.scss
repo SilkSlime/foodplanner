@@ -1,0 +1,12 @@
+@use 'variables' as *;
+
+.container{max-width:1200px;margin:0 auto;padding:0 $spacing-md;}
+.text-center{text-align:center;}
+.mb-sm{margin-bottom:$spacing-sm;}
+.mb-md{margin-bottom:$spacing-md;}
+.mb-lg{margin-bottom:$spacing-lg;}
+.mt-sm{margin-top:$spacing-sm;}
+.mt-md{margin-top:$spacing-md;}
+.mt-lg{margin-top:$spacing-lg;}
+.card{background-color:$card-background-color;border-radius:$border-radius-md;box-shadow:$soft-shadow;padding:$spacing-md;transition:$transition-base;&:hover{box-shadow:$stronger-shadow;transform:translateY(-2px);}}
+.visually-hidden{position:absolute;width:1px;height:1px;margin:-1px;padding:0;overflow:hidden;clip:rect(0,0,0,0);border:0;}
